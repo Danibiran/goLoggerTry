@@ -6,5 +6,13 @@ func print() {
 }
 
 func InitLogger(){
-    
+
+}
+
+func Error(){
+
+}
+
+func Info(){
+
 }
